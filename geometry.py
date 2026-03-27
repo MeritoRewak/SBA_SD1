@@ -8,6 +8,7 @@ def square_area(side):
 def circle_area(radius): 
 """Calculates the area of a circle.”””
  return math.pi * (radius ** 2)
+ 
 
 
 if __name__ == "__main__":
